@@ -9,6 +9,7 @@ body {
   font-weight: bold;
 }
 
+/*The display grid fixes the problem of the image offsetting to the right*/
 .image-container {
   display: grid;
   place-items: center;
@@ -55,7 +56,7 @@ body {
   border: 1px solid #144272;
   border-width: 10px;
   border-radius: 10px;
-  box-shadow: 0 0 0 1px rgb(59, 59, 59);
+  box-shadow: 0 0 0 1.5px rgb(59, 59, 59);
 }
 
 .column-heading {
@@ -66,7 +67,7 @@ span.bold {
   font-weight: bold;
 }
 
-/*NOTE: The objectives only require use of the <ol> tag. There are no instructions preventing the modification of the tag to remove the numbering.*/
+/*NOTE: The objectives only require use of the <ol> tag. There are no prohibitions on the modification of the tag to remove the numbering.*/
 ol.stripped-style {
   list-style: none;
 }
