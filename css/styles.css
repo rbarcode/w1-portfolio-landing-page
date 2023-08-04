@@ -1,12 +1,27 @@
+#main-heading {
+  text-align: center;
+}
+
+.centered-text {
+  text-align: center;
+}
+
 .wrapper {
   display: block;
+  box-sizing: border-box;
   margin-bottom: 200px;
 }
 
 .column {
   float: left;
+  padding: 10px;
+  width: 35%;
 }
 
 .column-heading {
+  font-style: italic;
+}
+
+span.bold {
   font-weight: bold;
 }
