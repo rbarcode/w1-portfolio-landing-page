@@ -1,12 +1,23 @@
 body {
   background-color: #0A2647;
-  color:lightgray;
+  color: lightgray;
 }
 
 #main-heading {
   text-align: center;
   margin: 5%;
   font-weight: bold;
+}
+
+.image-container {
+  display: grid;
+  place-items: center;
+  margin-bottom: 50px;
+}
+
+#main-image {
+  width: 225px;
+
 }
 
 #welcome {
