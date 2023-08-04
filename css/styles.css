@@ -1,0 +1,12 @@
+.wrapper {
+  display: block;
+  margin-bottom: 200px;
+}
+
+.column {
+  float: left;
+}
+
+.column-heading {
+  font-weight: bold;
+}
