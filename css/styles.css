@@ -44,7 +44,7 @@ body {
   border: 1px solid #144272;
   border-width: 10px;
   border-radius: 10px;
-  box-shadow: 0 0 0 1px #ff8000;
+  box-shadow: 0 0 0 1px rgb(59, 59, 59);
 }
 
 .column-heading {
