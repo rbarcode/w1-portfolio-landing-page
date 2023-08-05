@@ -16,13 +16,13 @@ This webpage contains a list of projects as part of the C#/REACT web development
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+1. Navigate to https://github.com/rbarcode/w1-portfolio-landing-page in an internet browser.
+2. Click on the green “<> Code” button approximately 2/3s to the right-hand side of the page near the top.
+3. On the “Local” tab of the mini-window that opens underneath the “<>Code” button, copy the HTTPS link in the gray bar to your clipboard.
+4. In GitBash (or your terminal/shell of your choice/computer), navigate to the directory where you wish to download the project and enter the following prompt (replacing the italicized word with the appropriate link): git clone *url-of-the-repository-copied-in-the-previous-step*
+5. Your chosen directory will now contain a folder titled “w1-portfolio-landing-page”.
+6. You can open the folder "w1-portfolio-landing-page" in VS Code (for example, by using the appropriate commands in GitBash or using the GUI and right-clicking on the option to “Open with Code” in the menu that pops up… note, you may need to select “Show more options” at the bottom of the menu if you don’t see “Open with Code” in the provided list).
+7. You can now read and edit the project files!
 
 ## Known Bugs
 
