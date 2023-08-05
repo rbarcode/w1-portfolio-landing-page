@@ -3,6 +3,7 @@
 #### By Richard Barbour II
 
 #### A webpage to showcase my projects from coding bootcamp and introduce myself to the world.
+https://rbarcode.github.io/w1-portfolio-landing-page/
 
 ## Technologies Used
 
